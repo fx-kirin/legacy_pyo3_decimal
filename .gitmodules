@@ -1,3 +1,6 @@
 [submodule "pyo3_decimal_macro"]
 	path = pyo3_decimal_macro
 	url = https://github.com/fx-kirin/pyo3_decimal_macro.git
+[submodule "pyo3_decimal_pythonlib"]
+	path = pyo3_decimal_pythonlib
+	url = https://github.com/fx-kirin/pyo3_decimal_pythonlib.git
